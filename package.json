@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-viewer",
+  "version": "1.0.0",
+  "description": "Image viewer for vuepress specially",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongyuanxin/vuepress-plugin-viewer.git"
+  },
+  "keywords": [
+    "vuepress",
+    "image",
+    "plugin",
+    "view",
+    "plugin"
+  ],
+  "author": "dongyuanxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongyuanxin/vuepress-plugin-viewer/issues"
+  },
+  "homepage": "https://github.com/dongyuanxin/vuepress-plugin-viewer#readme"
+}
